@@ -1,0 +1,11 @@
+*
+!.gitignore
+!products/
+!products/*.jpg
+!products/*.jpeg
+!products/*.png
+!products/*.webp
+!products/*.JPG
+!products/*.JPEG
+!products/*.PNG
+!products/*.WEBP

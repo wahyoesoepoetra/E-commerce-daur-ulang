@@ -34,10 +34,6 @@ export default function Navbar(){
                 <Link to="/checkout" className="hover:text-emerald-100"> 
                     Checkout 
                 </Link> 
-                
-                <Link to="/admin/dashboard" className="hover:text-emerald-100">
-                     Admin
-                </Link>
             </div> 
         </nav> 
     );
